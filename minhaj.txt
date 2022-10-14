@@ -1,6 +1,14 @@
-Hello minhaj 
-i m fine what about you
 
 
 
-OCT2022 cold day
+
+{
+  "resource": {
+    "aws_instance": {
+      "example": {
+        "instance_type": "t2.micro",
+        "ami": "ami-abc123"
+      }
+    }
+  }
+}
